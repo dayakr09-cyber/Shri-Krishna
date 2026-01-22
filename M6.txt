@@ -1,0 +1,2 @@
+Writing content in remote repo
+this M6 file created in remote repo
